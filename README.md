@@ -25,3 +25,18 @@ And below is my result with 9 hours' trainning on my trash desktop. The left and
 
 ![faceswap](pictures/faceswap.png)
 
+
+
+### Merge many repositories on github
+
+~~~git
+cd repo1
+git remote add other ../repo2
+git fetch other
+git checkout -b repo2 other/master
+git checkout master
+git merge repo2 --allow-unrelated-histories
+~~~
+
+Any question can refer to [here](<https://sabrinaluo.github.io/tech/2015/12/24/how-to-merge-repos-with-git/>) and [here](<https://my.oschina.net/u/2007323/blog/1860305>).
+

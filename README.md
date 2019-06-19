@@ -40,3 +40,21 @@ git merge repo2 --allow-unrelated-histories
 
 Any question can refer to [here](<https://sabrinaluo.github.io/tech/2015/12/24/how-to-merge-repos-with-git/>) and [here](<https://my.oschina.net/u/2007323/blog/1860305>).
 
+
+
+
+
+### Python encrypt and decrypt file of any form
+
+raw file:
+
+![raw picture](pictures/raw.jpg)
+
+and after encrypted, get two file with the same size of the raw file
+
+![key picture](pictures/key.png)
+
+and then decrypt the encrypted file with the key, get output file
+
+![raw picture](pictures/output.jpg)
+

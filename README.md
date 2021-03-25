@@ -58,3 +58,8 @@ and then decrypt the encrypted file with the key, get output file
 
 ![raw picture](pictures/output.jpg)
 
+
+
+### Share file/message between two PCs under the same network
+See [here](https://blog.csdn.net/siriusli1981/article/details/89000208?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-8&spm=1001.2101.3001.4242).
+
